@@ -1,9 +1,9 @@
 {
-  "name":"Zokou-2.0",
+  "name":"TIFE TV",
   "description":"bot whatsapp développé par djalega++",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://raw.githubusercontent.com/djalega8000/Zokou-2.0/main/Zokou.jpg",
-  "repository":"https://github.com/djalega8000/Zokou-2.0",
+  "logo":"https://telegra.ph/file/8e6251304727a57809b71.jpg",
+  "repository":"https://wa.me/2349023900281",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Zokou-MD",
+      "value":"TIFE-TV",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.pinimg.com/736x/0a/70/6f/0a706f90d6a1fb39919aedfbb7fdd8d3.jpg",
+      "value":"https://telegra.ph/file/8e6251304727a57809b71.jpg",
       "required":false
        
      },
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Djalega++"
+    "value": "TIFE"
   },
     "NUMERO_OWNER":
   {
