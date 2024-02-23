@@ -32,22 +32,22 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-*╔═════ •✧✧• ════╗*
-┃   *Préfix* : ${s.PREFIXE}
+*╔═════ •✧TIFE-TV✧• ══════*
+┃   *Preflix* : ${s.PREFIXE}
 ┃   *Owner* : ${s.OWNER_NAME}
 ┃   *Mode* : ${mode}
 ┃   *Commands* : ${cm.length}
 ┃   *Date* : ${date}
 ┃   *Hour* : ${temps}
-┃   *Mémoire* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+┃   *Memory* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ┃   *Plateforme* : ${os.platform()}
-┃   *Développer* : Djalega++ 
-┃  & M๏𝓷keℽ D Lบffy
+┃   *Developer* : TIFE
+┃   *CUSTOMER CARE/HELP:https://wa.me/2349023900281
 *╚═════ •✧✧• ════╝* \n\n`;
     
 let menuMsg = `
 👋 Hello ${nomAuteurMessage} 👋
-I'm *${s.NOM}*, a bot developped by team zokou.
+I'm *${s.NOM}*, a bot developped by TIFE TV.
 
 *List of commands :*
 ◇                             ◇
@@ -60,7 +60,7 @@ I'm *${s.NOM}*, a bot developped by team zokou.
 *✗✪* ${cmd}`;
         }
         menuMsg += `
-*╚════ ✵ ✵ ═══╝* \n`
+*╚════ ✵TIFE TV✵ ═══╝* \n`
     }
 
     menuMsg += `
@@ -68,7 +68,7 @@ I'm *${s.NOM}*, a bot developped by team zokou.
 *»»————— ★ —————««*
 for use a command, insert  ${prefixe}"command_name"
  
- *『ZokouMD*
+ *TIFE TV*
                                                 
 *»»————— ★ —————««*
 `;
